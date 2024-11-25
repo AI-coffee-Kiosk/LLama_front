@@ -40,7 +40,6 @@ public class SendRasaController {
 
 		try {
 
-			@SuppressWarnings("deprecation")
 			URL obj = new URL(url);
 			HttpURLConnection connection = (HttpURLConnection) obj.openConnection();
 			connection.setRequestMethod("POST");
