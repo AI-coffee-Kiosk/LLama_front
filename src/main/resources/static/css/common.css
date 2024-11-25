@@ -16,6 +16,7 @@ a {
 
 img {
   width: 100%;
+  height: auto;
 }
 
 body {
@@ -48,4 +49,10 @@ button {
 
 button span {
   font-family: Pretendard;
+}
+
+@media (max-width: 768px) {
+  header > p {
+    font-size: 2rem;
+  }
 }
