@@ -28,7 +28,7 @@
       <!-- 상단 -->
       <header>
         <p>
-          DREAM COFFEE
+          SPEAK EASY COFFEE
         </p>
       </header>
 
